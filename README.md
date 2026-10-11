@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Hi there 👋, I'm Rabiul Islam</h1>
+<h3 align="center">🚀 A passionate Full Stack Web Developer dedicated to building scalable, high-performance web applications.</h3>
 
-<!--
-**itsrobiulofficial/ItsRobiulOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 About Me
+I am a Full Stack Web Developer. I believe in open-source software and sharing knowledge with the global developer community. Here in my profile, you will find the source code for my various projects, websites, and applications, which are provided entirely for free!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technical Skills
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, PHP
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsRobiulOfficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rabiul's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRobiulOfficial&layout=compact&theme=tokyonight&hide_border=true" alt="Rabiul's Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with me
+- **Portfolio:** *(Insert your portfolio link here)*
+- **LinkedIn:** *(Insert your LinkedIn profile link here)*
+- **Facebook:** *(Insert your Facebook profile link here)*
+- **YouTube:** *(Insert your YouTube channel link here)*
+
+---
+<p align="center">Feel free to explore, learn, and use the source code for free!</p>
